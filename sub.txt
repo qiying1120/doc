@@ -1,0 +1,1 @@
+vless://29cb5a55-1025-4be8-8b82-9342556902b4@35.75.34.204:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=YRB22blG5vbmN1oBH-rDrH-m5pgBoQ4MavQr4Ftk7EU&sid=93d164a4e3c0646a&type=tcp&flow=xtls-rprx-vision#aws-tokyo-reality
